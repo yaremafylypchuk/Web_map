@@ -8,7 +8,7 @@ The program searches for the nearest 10 places, where film where made, from a lo
 
 Here is the photo of the map:
 
-<img src="https://drive.google.com/drive/u/0/my-drive">
+<img src="https://github.com/yaremafylypchuk/Web_map/blob/master/Знімок%20екрана%20%20о%2022.54.55.png">
 
 <h3>Some Html tags:</h3>
 &lt;head&gt;- the most important information

@@ -6,6 +6,10 @@ Web-map
 
 The program searches for the nearest 10 places, where film where made, from a location, that user inputs.
 
+Here is the photo of the map:
+
+<img src="photo link">
+
 <h3>Some Html tags:</h3>
 &lt;head&gt;- the most important information
 

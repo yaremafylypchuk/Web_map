@@ -12,7 +12,7 @@ The program searches for the nearest 10 places, where film where made, from a lo
 
 <h3>And here is the informations that I inputed:</h3>
 
-<img src="https://github.com/yaremafylypchuk/Web_map/blob/master/Знімок%20екрана%20%20о%2022.54.55.png">
+<img src="https://github.com/yaremafylypchuk/Web_map/blob/master/Знімок%20екрана%20%20о%2022.55.06.png">
 
 <h3>Some Html tags:</h3>
 &lt;head&gt;- the most important information
